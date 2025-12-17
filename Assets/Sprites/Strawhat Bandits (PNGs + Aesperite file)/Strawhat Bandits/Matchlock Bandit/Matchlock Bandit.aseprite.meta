@@ -1,0 +1,1538 @@
+fileFormatVersion: 2
+guid: fcab3982cf124144796fcfb8af9a47c9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Matchlock Bandit_Frame_0
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 199
+      height: 208
+    spriteID: 06478d022bb017641b17ff2167052939
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Matchlock Bandit_Frame_1
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 220
+      width: 199
+      height: 208
+    spriteID: 366d47ac17b587743abfb58619322e48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 220}
+  - name: Matchlock Bandit_Frame_2
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 436
+      width: 199
+      height: 208
+    spriteID: b2cd085ba44bbd149b1d8dfe6019ef86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 436}
+  - name: Matchlock Bandit_Frame_3
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 652
+      width: 199
+      height: 208
+    spriteID: ef0dd11dfe1fd314d96ba4064c374b28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 652}
+  - name: Matchlock Bandit_Frame_4
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 868
+      width: 199
+      height: 208
+    spriteID: 525f4998cb664ab469a27b690be294e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 868}
+  - name: Matchlock Bandit_Frame_5
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1084
+      width: 199
+      height: 208
+    spriteID: 2d2a984cce5221e4f90c1aa783bcd327
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1084}
+  - name: Matchlock Bandit_Frame_6
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1300
+      width: 199
+      height: 208
+    spriteID: 265a1938da0c1884ea6339d11da14d67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1300}
+  - name: Matchlock Bandit_Frame_7
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1516
+      width: 199
+      height: 208
+    spriteID: 7a6f3b61f7a190440994024ca030d0ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1516}
+  - name: Matchlock Bandit_Frame_8
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1732
+      width: 199
+      height: 208
+    spriteID: 2426b10c95ec98741b2fb8bb76734a04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1732}
+  - name: Matchlock Bandit_Frame_9
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 4
+      width: 199
+      height: 208
+    spriteID: 4a88503268d00f14da8633daa172da02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 4}
+  - name: Matchlock Bandit_Frame_10
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 220
+      width: 199
+      height: 208
+    spriteID: ebeb1e318e16f4742b184ee60ee0d9df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 220}
+  - name: Matchlock Bandit_Frame_11
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 436
+      width: 199
+      height: 208
+    spriteID: b864c8dcf3ed0634f85db1a049ff6629
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 436}
+  - name: Matchlock Bandit_Frame_12
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 652
+      width: 199
+      height: 208
+    spriteID: c355d5bd3a3830346bc644658fca66cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 652}
+  - name: Matchlock Bandit_Frame_13
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 868
+      width: 199
+      height: 208
+    spriteID: 121b8bec15b1af448a7aceb7ed86a971
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 868}
+  - name: Matchlock Bandit_Frame_14
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 1084
+      width: 199
+      height: 208
+    spriteID: 8d6c5ca5b7d1b224798eb85a492ea245
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 1084}
+  - name: Matchlock Bandit_Frame_15
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 1300
+      width: 199
+      height: 208
+    spriteID: c8ba5653c75e90c428397d94c6144d05
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 1300}
+  - name: Matchlock Bandit_Frame_16
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 1516
+      width: 199
+      height: 208
+    spriteID: 220bec0c614a8c4479f1496405805749
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 1516}
+  - name: Matchlock Bandit_Frame_17
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 1732
+      width: 199
+      height: 208
+    spriteID: 092b3d474df854e4cae6b1097c6e22d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 1732}
+  - name: Matchlock Bandit_Frame_18
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 4
+      width: 199
+      height: 208
+    spriteID: dd2cbc27c5c6f6b4aa05fc62de1550e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 4}
+  - name: Matchlock Bandit_Frame_19
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 220
+      width: 199
+      height: 208
+    spriteID: fd7bb0e021a915545bb0935096fc2080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 220}
+  - name: Matchlock Bandit_Frame_20
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 436
+      width: 199
+      height: 208
+    spriteID: f16c45b4a2ebf024499a28f01b6caaf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 436}
+  - name: Matchlock Bandit_Frame_21
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 652
+      width: 199
+      height: 208
+    spriteID: a1560502d537c5c4fb0ca5539ff2c8ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 652}
+  - name: Matchlock Bandit_Frame_22
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 868
+      width: 199
+      height: 208
+    spriteID: b8517e02b6251f249aec07e5f4cd615e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 868}
+  - name: Matchlock Bandit_Frame_23
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 1084
+      width: 199
+      height: 208
+    spriteID: 616ac998acfb4444c9ff776a74afaa8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 1084}
+  - name: Matchlock Bandit_Frame_24
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 1300
+      width: 199
+      height: 208
+    spriteID: 687914cbb484b3040b5dadf37ae26562
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 1300}
+  - name: Matchlock Bandit_Frame_25
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 1516
+      width: 199
+      height: 208
+    spriteID: c693701e7ae976e49b9a256764bfcc74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 1516}
+  - name: Matchlock Bandit_Frame_26
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 1732
+      width: 199
+      height: 208
+    spriteID: a994c382f9e06c44d8f8468701d700f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 1732}
+  - name: Matchlock Bandit_Frame_27
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 4
+      width: 199
+      height: 208
+    spriteID: 72347f7baf38bfc4ba6c8cbd19352904
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 4}
+  - name: Matchlock Bandit_Frame_28
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 220
+      width: 199
+      height: 208
+    spriteID: b95af34dd92f8db44bcdddbf2decff21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 220}
+  - name: Matchlock Bandit_Frame_29
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 436
+      width: 199
+      height: 208
+    spriteID: 9fc05034fdbaf444ea4b163aa4f6bb79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 436}
+  - name: Matchlock Bandit_Frame_30
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 652
+      width: 199
+      height: 208
+    spriteID: c38562abed0bed7438d06e9914a7c651
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 652}
+  - name: Matchlock Bandit_Frame_31
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 868
+      width: 199
+      height: 208
+    spriteID: eae186706f6c69c419e685677182ca60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 868}
+  - name: Matchlock Bandit_Frame_32
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 1084
+      width: 199
+      height: 208
+    spriteID: 653d9292e93c7c446be5ee357fd58956
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 1084}
+  - name: Matchlock Bandit_Frame_33
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 1300
+      width: 199
+      height: 208
+    spriteID: fb08f5f18ebb5634cabaa08d8bac9bcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 1300}
+  - name: Matchlock Bandit_Frame_34
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 1516
+      width: 199
+      height: 208
+    spriteID: 22b31ddb6faf3e6448b2aa8a757e89a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 1516}
+  - name: Matchlock Bandit_Frame_35
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 625
+      y: 1732
+      width: 199
+      height: 208
+    spriteID: a5643342813f1d042bc1b72be7eac2bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 625, y: 1732}
+  - name: Matchlock Bandit_Frame_36
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 4
+      width: 199
+      height: 208
+    spriteID: 1f591bcebeac8f8498766e8c1f480c13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 4}
+  - name: Matchlock Bandit_Frame_37
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 220
+      width: 199
+      height: 208
+    spriteID: 56701e3ed1c500849b47c9b8ddcee6cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 220}
+  - name: Matchlock Bandit_Frame_38
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 436
+      width: 199
+      height: 208
+    spriteID: d8cfa2a048aabe34ebc3c9ec35ee3880
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 436}
+  - name: Matchlock Bandit_Frame_39
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 652
+      width: 199
+      height: 208
+    spriteID: c8c609a598063c44ca1d147ec7def3a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 652}
+  - name: Matchlock Bandit_Frame_40
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 868
+      width: 199
+      height: 208
+    spriteID: 69e71332c422d414dbf283af72eb1c54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 868}
+  - name: Matchlock Bandit_Frame_41
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 1084
+      width: 199
+      height: 208
+    spriteID: 75353c887f8a6a74d8b848b8d7290ca3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 1084}
+  - name: Matchlock Bandit_Frame_42
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 1300
+      width: 199
+      height: 208
+    spriteID: b5747bc0ebb9bf5499b679b33cfba11a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 1300}
+  - name: Matchlock Bandit_Frame_43
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 1516
+      width: 199
+      height: 208
+    spriteID: d4679f2e178003e4bb921d1f38a362cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 1516}
+  - name: Matchlock Bandit_Frame_44
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 832
+      y: 1732
+      width: 199
+      height: 208
+    spriteID: 9d0af8a6f2286a74c823fcb7dc3e29de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 832, y: 1732}
+  - name: Matchlock Bandit_Frame_45
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1039
+      y: 4
+      width: 199
+      height: 208
+    spriteID: dbdc257b7d335904597454b37dd50203
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1039, y: 4}
+  - name: Matchlock Bandit_Frame_46
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1039
+      y: 220
+      width: 199
+      height: 208
+    spriteID: fdf9df67ae87d8145ad236018c6d3028
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1039, y: 220}
+  - name: Matchlock Bandit_Frame_47
+    originalName: 
+    pivot: {x: 0.48241207, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1039
+      y: 436
+      width: 199
+      height: 208
+    spriteID: 66831e02edb563a4b9698ef66ee3d4e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1039, y: 436}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    uuid:
+      value0: 2964955218
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -1330012078
+    name: Matchlock Bandit
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 06478d022bb017641b17ff2167052939
+    - name: Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 366d47ac17b587743abfb58619322e48
+    - name: Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: b2cd085ba44bbd149b1d8dfe6019ef86
+    - name: Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: ef0dd11dfe1fd314d96ba4064c374b28
+    - name: Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 525f4998cb664ab469a27b690be294e5
+    - name: Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 2d2a984cce5221e4f90c1aa783bcd327
+    - name: Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 265a1938da0c1884ea6339d11da14d67
+    - name: Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 7a6f3b61f7a190440994024ca030d0ef
+    - name: Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 2426b10c95ec98741b2fb8bb76734a04
+    - name: Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 4a88503268d00f14da8633daa172da02
+    - name: Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: ebeb1e318e16f4742b184ee60ee0d9df
+    - name: Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: b864c8dcf3ed0634f85db1a049ff6629
+    - name: Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: c355d5bd3a3830346bc644658fca66cf
+    - name: Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 121b8bec15b1af448a7aceb7ed86a971
+    - name: Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 8d6c5ca5b7d1b224798eb85a492ea245
+    - name: Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: c8ba5653c75e90c428397d94c6144d05
+    - name: Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 220bec0c614a8c4479f1496405805749
+    - name: Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 092b3d474df854e4cae6b1097c6e22d5
+    - name: Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: dd2cbc27c5c6f6b4aa05fc62de1550e4
+    - name: Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: fd7bb0e021a915545bb0935096fc2080
+    - name: Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: f16c45b4a2ebf024499a28f01b6caaf5
+    - name: Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: a1560502d537c5c4fb0ca5539ff2c8ef
+    - name: Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: b8517e02b6251f249aec07e5f4cd615e
+    - name: Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 616ac998acfb4444c9ff776a74afaa8f
+    - name: Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 687914cbb484b3040b5dadf37ae26562
+    - name: Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: c693701e7ae976e49b9a256764bfcc74
+    - name: Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: a994c382f9e06c44d8f8468701d700f2
+    - name: Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 72347f7baf38bfc4ba6c8cbd19352904
+    - name: Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: b95af34dd92f8db44bcdddbf2decff21
+    - name: Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 9fc05034fdbaf444ea4b163aa4f6bb79
+    - name: Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: c38562abed0bed7438d06e9914a7c651
+    - name: Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: eae186706f6c69c419e685677182ca60
+    - name: Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 653d9292e93c7c446be5ee357fd58956
+    - name: Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: fb08f5f18ebb5634cabaa08d8bac9bcd
+    - name: Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 22b31ddb6faf3e6448b2aa8a757e89a6
+    - name: Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: a5643342813f1d042bc1b72be7eac2bd
+    - name: Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 1f591bcebeac8f8498766e8c1f480c13
+    - name: Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 56701e3ed1c500849b47c9b8ddcee6cb
+    - name: Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: d8cfa2a048aabe34ebc3c9ec35ee3880
+    - name: Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: c8c609a598063c44ca1d147ec7def3a8
+    - name: Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 69e71332c422d414dbf283af72eb1c54
+    - name: Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 75353c887f8a6a74d8b848b8d7290ca3
+    - name: Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: b5747bc0ebb9bf5499b679b33cfba11a
+    - name: Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: d4679f2e178003e4bb921d1f38a362cc
+    - name: Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 9d0af8a6f2286a74c823fcb7dc3e29de
+    - name: Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: dbdc257b7d335904597454b37dd50203
+    - name: Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: fdf9df67ae87d8145ad236018c6d3028
+    - name: Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 199
+        height: 208
+      spriteId: 66831e02edb563a4b9698ef66ee3d4e8
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}
+  previousTextureSize: {x: 2048, y: 2048}
