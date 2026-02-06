@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2532e91e457c6544ab43f044c384b920
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - attackSound: {fileID: 8300000, guid: 6433dc7bf0ba182488bd76f8bed4f9e1, type: 3}
+  - swishSound: {fileID: 8300000, guid: 5ddb6a5624327e241bd91372d0733aac, type: 3}
+  - musketSound: {fileID: 8300000, guid: 8e64470c7c66d9c4cb286b56737eda58, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
