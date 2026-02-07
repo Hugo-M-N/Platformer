@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 540e10cd00cc5854586d05bfab5a6c78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - attackSound: {instanceID: 0}
+  - swishSound: {instanceID: 0}
+  - stepSound: {fileID: 8300000, guid: 7c6aec929ff3a2b419bc59cd73702450, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

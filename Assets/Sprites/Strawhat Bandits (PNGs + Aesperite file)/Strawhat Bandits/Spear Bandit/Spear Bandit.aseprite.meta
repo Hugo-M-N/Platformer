@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: d2f8589549b5ae048b4bacc866423d5b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Spear Bandit_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 192
+      height: 192
+    spriteID: db437714f4765b04b9e8227bffd16570
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Spear Bandit_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 0362287eed342ff419af3d7d9ccb4431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 204}
+  - name: Spear Bandit_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 404
+      width: 192
+      height: 192
+    spriteID: ad633955635801a4da339e341c76a4d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 404}
+  - name: Spear Bandit_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 604
+      width: 192
+      height: 192
+    spriteID: ea12fdcbfba2ff34cb8fe889550a5ed4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 604}
+  - name: Spear Bandit_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 804
+      width: 192
+      height: 192
+    spriteID: b4257cbb5637170469d53db18bb4f4c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 804}
+  - name: Spear Bandit_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 914f46891f180d54ba57c4882a028fc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1004}
+  - name: Spear Bandit_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: af6cf496953864c4494c2c840ffc1111
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1204}
+  - name: Spear Bandit_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: ab0923a2ef721d24791d955661306437
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1404}
+  - name: Spear Bandit_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: 294204bcaeeb6364eba42683d10bf672
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1604}
+  - name: Spear Bandit_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: 1fee7e194eda6834fa37f66f2a361088
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1804}
+  - name: Spear Bandit_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 16e94a19a42eb974580030df5ae9f963
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 4}
+  - name: Spear Bandit_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 210935e4f45e22f4696fa35055d8e850
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 204}
+  - name: Spear Bandit_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 0de2d636f6160bf47b73e2c54b6124e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 404}
+  - name: Spear Bandit_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 604
+      width: 192
+      height: 192
+    spriteID: d17e31ea807db7b41a3f87b74a0a3f87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 604}
+  - name: Spear Bandit_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 804
+      width: 192
+      height: 192
+    spriteID: e04e86f1d51a6cf4b8eeedab46f20d2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 804}
+  - name: Spear Bandit_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 0f3c8edb5c2a4fc4587be1ea9bbc5116
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1004}
+  - name: Spear Bandit_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 4f00a3322bd9371418786f9796cfb27a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1204}
+  - name: Spear Bandit_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: 3dfeea0035d14b844b1cd08437a2b4f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1404}
+  - name: Spear Bandit_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: 95a40aedb71d0a24f8a28914ac1348d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1604}
+  - name: Spear Bandit_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: eea28cb699404c14b92718f6401911f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1804}
+  - name: Spear Bandit_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 95393e58fd63e3f45bc516336fee3848
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 4}
+  - name: Spear Bandit_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 204
+      width: 192
+      height: 192
+    spriteID: d6a45ced3360c6149a1dfb5f43b1f1da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 204}
+  - name: Spear Bandit_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 25bc6c6e8396427408f3dfcd7fb11c43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 404}
+  - name: Spear Bandit_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 604
+      width: 192
+      height: 192
+    spriteID: c59b4df8ab22b4a4a980b9e9805c4592
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 604}
+  - name: Spear Bandit_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 804
+      width: 192
+      height: 192
+    spriteID: a66b483932a45af4fa2fad76eaedf58e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 804}
+  - name: Spear Bandit_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 427de460bd3e69f4397394a8bdddeb1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1004}
+  - name: Spear Bandit_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: b198538b6fc4810489deb9a0fa1a9a82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1204}
+  - name: Spear Bandit_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: 766563ca022b8e24781a012398e5259f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1404}
+  - name: Spear Bandit_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: 363ef58fbdd9aef44b1f6bc05f034579
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1604}
+  - name: Spear Bandit_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: b33425b8ef3d7004893e9cb1a6ef049f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1804}
+  - name: Spear Bandit_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 505883cb832f41f469f334636f13e9ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 4}
+  - name: Spear Bandit_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 204
+      width: 192
+      height: 192
+    spriteID: e8776de8e9dff1e4194826ea9ab63801
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 204}
+  - name: Spear Bandit_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 404
+      width: 192
+      height: 192
+    spriteID: ae70d473902559b43a8f7c0924bff07f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 404}
+  - name: Spear Bandit_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 604
+      width: 192
+      height: 192
+    spriteID: 60a8f5b47600dd442932b02edff38d7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 604}
+  - name: Spear Bandit_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 804
+      width: 192
+      height: 192
+    spriteID: b7f31d33a4f59e6419edfc8e9a571e77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 804}
+  - name: Spear Bandit_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 10de725faadf6e34f9f8793cbb2b8623
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1004}
+  - name: Spear Bandit_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: 1aee75449448c2c47981ab5bdf00fd78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1204}
+  - name: Spear Bandit_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: 3c55f1461b610964fa414dfbe1076a32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1404}
+  - name: Spear Bandit_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: cf462c6d47719f448a780334636c9b6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1604}
+  - name: Spear Bandit_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 604
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: 3268491c13fcd8c4383bf182c2fa00f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 604, y: 1804}
+  - name: Spear Bandit_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 815b5b1a8b3c950418bdc3d1157aca2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 4}
+  - name: Spear Bandit_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.10416667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 804
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 54b4716a08a9cc3419c34bab3c288b50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 804, y: 204}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -516653447
+    name: Spear Bandit
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Spear Bandit_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: db437714f4765b04b9e8227bffd16570
+    - name: Spear Bandit_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 0362287eed342ff419af3d7d9ccb4431
+    - name: Spear Bandit_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: ad633955635801a4da339e341c76a4d8
+    - name: Spear Bandit_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: ea12fdcbfba2ff34cb8fe889550a5ed4
+    - name: Spear Bandit_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: b4257cbb5637170469d53db18bb4f4c8
+    - name: Spear Bandit_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 914f46891f180d54ba57c4882a028fc0
+    - name: Spear Bandit_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: af6cf496953864c4494c2c840ffc1111
+    - name: Spear Bandit_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: ab0923a2ef721d24791d955661306437
+    - name: Spear Bandit_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 294204bcaeeb6364eba42683d10bf672
+    - name: Spear Bandit_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 1fee7e194eda6834fa37f66f2a361088
+    - name: Spear Bandit_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 16e94a19a42eb974580030df5ae9f963
+    - name: Spear Bandit_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 210935e4f45e22f4696fa35055d8e850
+    - name: Spear Bandit_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 0de2d636f6160bf47b73e2c54b6124e8
+    - name: Spear Bandit_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: d17e31ea807db7b41a3f87b74a0a3f87
+    - name: Spear Bandit_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: e04e86f1d51a6cf4b8eeedab46f20d2a
+    - name: Spear Bandit_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 0f3c8edb5c2a4fc4587be1ea9bbc5116
+    - name: Spear Bandit_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 4f00a3322bd9371418786f9796cfb27a
+    - name: Spear Bandit_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 3dfeea0035d14b844b1cd08437a2b4f0
+    - name: Spear Bandit_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 95a40aedb71d0a24f8a28914ac1348d5
+    - name: Spear Bandit_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: eea28cb699404c14b92718f6401911f7
+    - name: Spear Bandit_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 95393e58fd63e3f45bc516336fee3848
+    - name: Spear Bandit_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: d6a45ced3360c6149a1dfb5f43b1f1da
+    - name: Spear Bandit_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 25bc6c6e8396427408f3dfcd7fb11c43
+    - name: Spear Bandit_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: c59b4df8ab22b4a4a980b9e9805c4592
+    - name: Spear Bandit_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: a66b483932a45af4fa2fad76eaedf58e
+    - name: Spear Bandit_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 427de460bd3e69f4397394a8bdddeb1d
+    - name: Spear Bandit_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: b198538b6fc4810489deb9a0fa1a9a82
+    - name: Spear Bandit_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 766563ca022b8e24781a012398e5259f
+    - name: Spear Bandit_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 363ef58fbdd9aef44b1f6bc05f034579
+    - name: Spear Bandit_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: b33425b8ef3d7004893e9cb1a6ef049f
+    - name: Spear Bandit_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 505883cb832f41f469f334636f13e9ed
+    - name: Spear Bandit_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: e8776de8e9dff1e4194826ea9ab63801
+    - name: Spear Bandit_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: ae70d473902559b43a8f7c0924bff07f
+    - name: Spear Bandit_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 60a8f5b47600dd442932b02edff38d7e
+    - name: Spear Bandit_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: b7f31d33a4f59e6419edfc8e9a571e77
+    - name: Spear Bandit_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 10de725faadf6e34f9f8793cbb2b8623
+    - name: Spear Bandit_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 1aee75449448c2c47981ab5bdf00fd78
+    - name: Spear Bandit_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 3c55f1461b610964fa414dfbe1076a32
+    - name: Spear Bandit_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: cf462c6d47719f448a780334636c9b6e
+    - name: Spear Bandit_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 3268491c13fcd8c4383bf182c2fa00f2
+    - name: Spear Bandit_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 815b5b1a8b3c950418bdc3d1157aca2a
+    - name: Spear Bandit_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: -16
+        y: -20
+        width: 192
+        height: 192
+      spriteId: 54b4716a08a9cc3419c34bab3c288b50
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 160, y: 120}
