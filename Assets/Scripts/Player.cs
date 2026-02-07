@@ -5,11 +5,11 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public float moveSpeed = 5f;
     public float playerMovement;
     public float jumpForce = 7f;
     private float scaleX;
-
+    public int hitpoints = 100;
+    public float stamina = 100;
     public int damage;
     public CapsuleCollider2D DmgZone1;
     public CapsuleCollider2D DmgZone2;
@@ -21,10 +21,18 @@ public class Player : MonoBehaviour
     Animator animator;
 
     private Rigidbody2D rb;
+    private SpriteRenderer sr;
+    public Sprite death;
+
     // Start is called before the first frame update
     void Start()
     {
+        
+        DmgZone1.enabled = false;
+        DmgZone2.enabled = false;
+        DmgZone3.enabled = false;
         rb = GetComponent<Rigidbody2D>();
+        sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         scaleX = transform.localScale.x;
     }
@@ -32,8 +40,13 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Movement();
-        Attack();        
+        if (hitpoints > 0)
+        {
+            Movement();
+            Attack();
+            if(stamina<100) stamina += 0.05f;
+        }
+
     }
 
     private void Movement()
@@ -41,7 +54,7 @@ public class Player : MonoBehaviour
         float move = Input.GetAxisRaw("Horizontal");
         animator.SetFloat("xVelocity", Math.Abs(move));
 
-        if (animator.GetCurrentAnimatorStateInfo(0).IsName("Movement")) rb.velocity = new Vector2(move * playerMovement, rb.velocity.y);
+        rb.velocity = new Vector2(move * playerMovement, rb.velocity.y);
 
         if (Input.GetButtonDown("Jump") && Mathf.Abs(rb.velocity.y) < 0.01f) rb.velocity = new Vector2(rb.velocity.x, jumpForce);
         animator.SetFloat("yVelocity", rb.velocity.y);
@@ -57,14 +70,17 @@ public class Player : MonoBehaviour
     {
         if (animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.7f && animator.GetCurrentAnimatorStateInfo(0).IsName("BaseAttack"))
         {
+            DmgZone1.enabled = false;
             animator.SetBool("BaseAttack", false);
         }
         if (animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.7f && animator.GetCurrentAnimatorStateInfo(0).IsName("Combo1"))
         {
+            DmgZone2.enabled = false;
             animator.SetBool("Combo1", false);
         }
         if (animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.7f && animator.GetCurrentAnimatorStateInfo(0).IsName("Combo2"))
         {
+            DmgZone3.enabled = false;
             animator.SetBool("Combo2", false);
             rb.velocity = (transform.localScale.x>1) ? new Vector2(playerMovement, rb.velocity.y) : new Vector2(-playerMovement, rb.velocity.y);
                 combo = 0;
@@ -85,31 +101,58 @@ public class Player : MonoBehaviour
     {
         lastAttack = Time.time;
         combo++;
-        if (combo == 1)
+        if (combo == 1 && stamina>=20)
         {
             animator.SetBool("BaseAttack", true);
+            stamina -= 20;
+
         }
 
         combo = Math.Clamp(combo, 0, 3);
 
-        if(combo >= 2 && animator.GetCurrentAnimatorStateInfo(0).normalizedTime>0.7f && animator.GetCurrentAnimatorStateInfo(0).IsName("BaseAttack"))
+        if(combo >= 2 && stamina>=30 && animator.GetCurrentAnimatorStateInfo(0).normalizedTime>0.7f && animator.GetCurrentAnimatorStateInfo(0).IsName("BaseAttack"))
         {
             animator.SetBool("BaseAttack", false);
             animator.SetBool("Combo1", true);
+            stamina -= 30;
         }
 
-        if(combo >= 3 && animator.GetCurrentAnimatorStateInfo(0).normalizedTime>0.7f && animator.GetCurrentAnimatorStateInfo(0).IsName("Combo1"))
+        if (combo >= 3 && stamina >= 50 && animator.GetCurrentAnimatorStateInfo(0).normalizedTime>0.7f && animator.GetCurrentAnimatorStateInfo(0).IsName("Combo1"))
         {
             animator.SetBool("Combo1", false);
             animator.SetBool("Combo2", true);
+            stamina -= 50;
+
+        }
+    }
+    public void TakeDamage()
+    {
+        hitpoints -= 20;
+        Debug.Log(hitpoints);
+        if (hitpoints>0)animator.Play("PlayerHit");
+        if (hitpoints <= 0)
+        {
+            animator.Play("PlayerDeath");
+            sr.sprite = death;
+
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void enableDMG1()
     {
-        if (collision == null) return;
-        if (collision.CompareTag("Enemy") && this.tag != "EnemyBullet")
-        { }
- 
+        DmgZone1.enabled=true;
+    }
+    public void enableDMG2()
+    {
+        DmgZone2.enabled=true;
+    }
+    public void enableDMG3()
+    {
+        DmgZone3.enabled=true;
+    }
+
+    public void disableAnimator()
+    {
+        animator.enabled=false;
     }
 }

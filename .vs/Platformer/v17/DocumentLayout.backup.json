@@ -3,12 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\hugot\\Platformer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|c:\\users\\hugot\\platformer\\assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|C:\\Users\\hugot\\Platformer\\assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|c:\\users\\hugot\\platformer\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|C:\\Users\\hugot\\Platformer\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hugot\\Space Invaders\\Assets\\Scripts\\PowerUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|c:\\users\\hugot\\platformer\\assets\\scripts\\playerhurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|c:\\users\\hugot\\platformer\\assets\\scripts\\bosshurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosshurt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|C:\\Users\\hugot\\Platformer\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +33,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Boss.cs",
-              "DocumentMoniker": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\Boss.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss.cs",
-              "ToolTip": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\Boss.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Boss.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "BossHurt.cs",
+              "DocumentMoniker": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\BossHurt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossHurt.cs",
+              "ToolTip": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\BossHurt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossHurt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T17:20:40.471Z",
+              "WhenOpened": "2026-02-07T12:42:55.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:24:54.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHurt.cs",
+              "DocumentMoniker": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\PlayerHurt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHurt.cs",
+              "ToolTip": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\PlayerHurt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHurt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:36:06.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "C:\\Users\\hugot\\Space Invaders\\Assets\\Scripts\\PowerUp.cs",
+              "RelativeDocumentMoniker": "..\\Space Invaders\\Assets\\Scripts\\PowerUp.cs",
+              "ToolTip": "C:\\Users\\hugot\\Space Invaders\\Assets\\Scripts\\PowerUp.cs",
+              "RelativeToolTip": "..\\Space Invaders\\Assets\\Scripts\\PowerUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:33:27.766Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +95,22 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowCsAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv3kAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T19:01:17.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss.cs",
+              "ToolTip": "C:\\Users\\hugot\\Platformer\\Assets\\Scripts\\Boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:01:58.061Z",
               "EditorCaption": ""
             }
           ]
