@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 192
       height: 192
-    spriteID: f101affa2746da74dac2415813d24996
+    spriteID: 38f84e2a5a5da864bae278339808b371
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 204
       width: 192
       height: 192
-    spriteID: 453a7f0e978a51243802c58661e5c0eb
+    spriteID: 0e9b9bece5419d645aafa91e20a79e2d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 404
       width: 192
       height: 192
-    spriteID: 40ec90ddedc1d7943928bff7de8ff9f8
+    spriteID: 914b946f601f6894387a95455f5c062d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 604
       width: 192
       height: 192
-    spriteID: 9cc0c907a631ac141922bc4ccd9b94a7
+    spriteID: 38f140927cb5c0b4cbda09456da02026
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 804
       width: 192
       height: 192
-    spriteID: 3206a992783ed0048a6bc6dbf63d7261
+    spriteID: 8836fe1c51671964cad62a6a838fe0ea
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 1004
       width: 192
       height: 192
-    spriteID: 6f8297114d81b6d4c9588dbe9912ed5c
+    spriteID: 42da85d0f7d36c9499f2cff01f4de7e4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 1204
       width: 192
       height: 192
-    spriteID: aab422bb769a75547ba0737ed5201b91
+    spriteID: f9d3eda4ed1c9854bbf3b2194a87c592
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 1404
       width: 192
       height: 192
-    spriteID: 918728c119a87384eb1aa60ee50b6da7
+    spriteID: c1f8353e91e47d44ea909556b96353e6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 1604
       width: 192
       height: 192
-    spriteID: 17d8dedcc21abab43b07c8da8abd2b5f
+    spriteID: 2b328959e9c46624e980190f6cf00676
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 1804
       width: 192
       height: 192
-    spriteID: cc46f2bd54a27134093e17dc539fe167
+    spriteID: e79ef5097094d3f4aa77d9982401656c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 4
       width: 192
       height: 192
-    spriteID: 9113695d5c395bd4aaf89af7eb64558a
+    spriteID: 7fe27ae9351c7eb4098af2841110c4cd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 204
       width: 192
       height: 192
-    spriteID: d9018699c1c96314981fed9174e08aee
+    spriteID: ef3daf2385f03104bb47c4f840636135
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 404
       width: 192
       height: 192
-    spriteID: caf492f6b3420584dbd6eb881463840a
+    spriteID: dfccc6992b9bcd84ca6d823e1e831c8d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 604
       width: 192
       height: 192
-    spriteID: 8ed924d2404de01438166aea72930896
+    spriteID: c00983c0438e9a346b4b7cad79d49850
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 804
       width: 192
       height: 192
-    spriteID: 8fe1a67e3c43c1b428a19b67171de144
+    spriteID: b6b6304d257da254eba9f152b1d7209e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 1004
       width: 192
       height: 192
-    spriteID: 43924644bd288c54baec2b4fb8363916
+    spriteID: 595d4f4d2533dd446b0b49a11bf9b391
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -452,7 +452,7 @@ ScriptedImporter:
       y: 1204
       width: 192
       height: 192
-    spriteID: a0993e9135c196a4899e2d9d852c40aa
+    spriteID: c0dc13653dff48948a01909b01cc849d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -472,7 +472,7 @@ ScriptedImporter:
       y: 1404
       width: 192
       height: 192
-    spriteID: 37468fec60a59584ba3c9dfd2e9583a2
+    spriteID: 9172637721e7601439046c529cdf566f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -492,7 +492,7 @@ ScriptedImporter:
       y: 1604
       width: 192
       height: 192
-    spriteID: 875480b97337494448a9e748a59b0913
+    spriteID: 695bef03d0b24f6449447d3a0c4e5f1c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 1804
       width: 192
       height: 192
-    spriteID: e1c03cea52c9f0142bbfaa85b703701f
+    spriteID: 18b484c78e7471c41a7f35b27bba6e51
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -532,7 +532,7 @@ ScriptedImporter:
       y: 4
       width: 192
       height: 192
-    spriteID: 88b49c197df7d8541809d93dd3fd872b
+    spriteID: ec9542f68050e6948a38e81af0fbd6d9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -552,7 +552,7 @@ ScriptedImporter:
       y: 204
       width: 192
       height: 192
-    spriteID: 8bd50c5667d718543a59f599d249fb52
+    spriteID: caf058d14dc616b40baec73ff4930415
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -572,7 +572,7 @@ ScriptedImporter:
       y: 404
       width: 192
       height: 192
-    spriteID: 8141b9f9fc4317242bf9e8139eae0da6
+    spriteID: 69c457733dadce840ad284ff503b283f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -592,7 +592,7 @@ ScriptedImporter:
       y: 604
       width: 192
       height: 192
-    spriteID: a127612fab01090469d29b658ff45b9e
+    spriteID: 0c64896d17388e947a010ca42b51f396
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -612,7 +612,7 @@ ScriptedImporter:
       y: 804
       width: 192
       height: 192
-    spriteID: f3d86c8517f636747a7eadd97e63b602
+    spriteID: 5db0677ac4610a14b975d930ede39518
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -632,7 +632,7 @@ ScriptedImporter:
       y: 1004
       width: 192
       height: 192
-    spriteID: 184f923347a392240a79ff4a67826e9a
+    spriteID: 347fa166ff36d4e4bb5bdc23b3773def
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -652,7 +652,7 @@ ScriptedImporter:
       y: 1204
       width: 192
       height: 192
-    spriteID: 4409a1f9b496eac42abd530fe5d9a8be
+    spriteID: ee046731ec96bad46b5a7f32033818ba
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -672,7 +672,7 @@ ScriptedImporter:
       y: 1404
       width: 192
       height: 192
-    spriteID: c96798b7fa939fa4eb51b0c215fb8789
+    spriteID: 195427cfce676a54185d4a09585c4b86
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -692,7 +692,7 @@ ScriptedImporter:
       y: 1604
       width: 192
       height: 192
-    spriteID: 6f20e12f1b70d33439513fcbeaaa29b0
+    spriteID: 59ae49c8049581e409403f1e6521ad14
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -712,7 +712,7 @@ ScriptedImporter:
       y: 1804
       width: 192
       height: 192
-    spriteID: 4f98374856aafc642a108d83464dabcd
+    spriteID: 122e185cb6a9a984d8987281c4960fe4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -732,7 +732,7 @@ ScriptedImporter:
       y: 4
       width: 192
       height: 192
-    spriteID: 18ff05ce0f3e38f4d9829620f76793e2
+    spriteID: 8eb5fe81e35df2e48aeb7336d049dae1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -752,7 +752,7 @@ ScriptedImporter:
       y: 204
       width: 192
       height: 192
-    spriteID: 050b3a930fd03aa40b7666b13df64ab9
+    spriteID: 6b1df16818a8bdd4aa81b6e4fd301a22
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -772,7 +772,7 @@ ScriptedImporter:
       y: 404
       width: 192
       height: 192
-    spriteID: dbb1523f8ba7f4a4186e17c0080cc250
+    spriteID: 9bf4b5a23ff07274899d93d086bf8b1d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -792,7 +792,7 @@ ScriptedImporter:
       y: 604
       width: 192
       height: 192
-    spriteID: 20bbd87ecab7c5a4ea3d42b231dc8983
+    spriteID: 7eab2ab002b0bc34c8e62bc3b831add6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -812,7 +812,7 @@ ScriptedImporter:
       y: 804
       width: 192
       height: 192
-    spriteID: 253dbcfdb6e3afa4599bd31a7fb0659e
+    spriteID: 2f749c78516ef6e4bbf50f30fd60030d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -832,7 +832,7 @@ ScriptedImporter:
       y: 1004
       width: 192
       height: 192
-    spriteID: 5daadbad192cfcc4289048f41d5db409
+    spriteID: d97f26494f009b94a83bc3ec04d02fe8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -852,7 +852,7 @@ ScriptedImporter:
       y: 1204
       width: 192
       height: 192
-    spriteID: ed4adf7d902c065489a13c5c635b6840
+    spriteID: 2d2bfdb24ee13974f957589e9f4c5b81
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -872,7 +872,7 @@ ScriptedImporter:
       y: 1404
       width: 192
       height: 192
-    spriteID: 02878e9e8d0eccc4cb497a7cbba33783
+    spriteID: c67a78789e45c8548bc92908cc1f6b81
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -892,7 +892,7 @@ ScriptedImporter:
       y: 1604
       width: 192
       height: 192
-    spriteID: 55d26cd8785b970439c66aafb80ff9b3
+    spriteID: 3517fba9991d057448d2c98ea165ff26
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -912,7 +912,7 @@ ScriptedImporter:
       y: 1804
       width: 192
       height: 192
-    spriteID: 871241699032c40419be7d4db4654ec3
+    spriteID: 0043238f09596fb41b5eebb1d1d0c3ee
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -932,7 +932,7 @@ ScriptedImporter:
       y: 4
       width: 192
       height: 192
-    spriteID: c8041aa55247a424dbb45cdfa4adf6be
+    spriteID: dc7274ddb7460144c98958518fb76bcb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -957,7 +957,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: f101affa2746da74dac2415813d24996
+      spriteId: 38f84e2a5a5da864bae278339808b371
     - name: Sword Bandit_Frame_1
       frameIndex: 1
       cellRect:
@@ -965,7 +965,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 453a7f0e978a51243802c58661e5c0eb
+      spriteId: 0e9b9bece5419d645aafa91e20a79e2d
     - name: Sword Bandit_Frame_2
       frameIndex: 2
       cellRect:
@@ -973,7 +973,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 40ec90ddedc1d7943928bff7de8ff9f8
+      spriteId: 914b946f601f6894387a95455f5c062d
     - name: Sword Bandit_Frame_3
       frameIndex: 3
       cellRect:
@@ -981,7 +981,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 9cc0c907a631ac141922bc4ccd9b94a7
+      spriteId: 38f140927cb5c0b4cbda09456da02026
     - name: Sword Bandit_Frame_4
       frameIndex: 4
       cellRect:
@@ -989,7 +989,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 3206a992783ed0048a6bc6dbf63d7261
+      spriteId: 8836fe1c51671964cad62a6a838fe0ea
     - name: Sword Bandit_Frame_5
       frameIndex: 5
       cellRect:
@@ -997,7 +997,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 6f8297114d81b6d4c9588dbe9912ed5c
+      spriteId: 42da85d0f7d36c9499f2cff01f4de7e4
     - name: Sword Bandit_Frame_6
       frameIndex: 6
       cellRect:
@@ -1005,7 +1005,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: aab422bb769a75547ba0737ed5201b91
+      spriteId: f9d3eda4ed1c9854bbf3b2194a87c592
     - name: Sword Bandit_Frame_7
       frameIndex: 7
       cellRect:
@@ -1013,7 +1013,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 918728c119a87384eb1aa60ee50b6da7
+      spriteId: c1f8353e91e47d44ea909556b96353e6
     - name: Sword Bandit_Frame_8
       frameIndex: 8
       cellRect:
@@ -1021,7 +1021,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 17d8dedcc21abab43b07c8da8abd2b5f
+      spriteId: 2b328959e9c46624e980190f6cf00676
     - name: Sword Bandit_Frame_9
       frameIndex: 9
       cellRect:
@@ -1029,7 +1029,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: cc46f2bd54a27134093e17dc539fe167
+      spriteId: e79ef5097094d3f4aa77d9982401656c
     - name: Sword Bandit_Frame_10
       frameIndex: 10
       cellRect:
@@ -1037,7 +1037,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 9113695d5c395bd4aaf89af7eb64558a
+      spriteId: 7fe27ae9351c7eb4098af2841110c4cd
     - name: Sword Bandit_Frame_11
       frameIndex: 11
       cellRect:
@@ -1045,7 +1045,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: d9018699c1c96314981fed9174e08aee
+      spriteId: ef3daf2385f03104bb47c4f840636135
     - name: Sword Bandit_Frame_12
       frameIndex: 12
       cellRect:
@@ -1053,7 +1053,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: caf492f6b3420584dbd6eb881463840a
+      spriteId: dfccc6992b9bcd84ca6d823e1e831c8d
     - name: Sword Bandit_Frame_13
       frameIndex: 13
       cellRect:
@@ -1061,7 +1061,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 8ed924d2404de01438166aea72930896
+      spriteId: c00983c0438e9a346b4b7cad79d49850
     - name: Sword Bandit_Frame_14
       frameIndex: 14
       cellRect:
@@ -1069,7 +1069,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 8fe1a67e3c43c1b428a19b67171de144
+      spriteId: b6b6304d257da254eba9f152b1d7209e
     - name: Sword Bandit_Frame_15
       frameIndex: 15
       cellRect:
@@ -1077,7 +1077,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 43924644bd288c54baec2b4fb8363916
+      spriteId: 595d4f4d2533dd446b0b49a11bf9b391
     - name: Sword Bandit_Frame_16
       frameIndex: 16
       cellRect:
@@ -1085,7 +1085,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: a0993e9135c196a4899e2d9d852c40aa
+      spriteId: c0dc13653dff48948a01909b01cc849d
     - name: Sword Bandit_Frame_17
       frameIndex: 17
       cellRect:
@@ -1093,7 +1093,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 37468fec60a59584ba3c9dfd2e9583a2
+      spriteId: 9172637721e7601439046c529cdf566f
     - name: Sword Bandit_Frame_18
       frameIndex: 18
       cellRect:
@@ -1101,7 +1101,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 875480b97337494448a9e748a59b0913
+      spriteId: 695bef03d0b24f6449447d3a0c4e5f1c
     - name: Sword Bandit_Frame_19
       frameIndex: 19
       cellRect:
@@ -1109,7 +1109,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: e1c03cea52c9f0142bbfaa85b703701f
+      spriteId: 18b484c78e7471c41a7f35b27bba6e51
     - name: Sword Bandit_Frame_20
       frameIndex: 20
       cellRect:
@@ -1117,7 +1117,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 88b49c197df7d8541809d93dd3fd872b
+      spriteId: ec9542f68050e6948a38e81af0fbd6d9
     - name: Sword Bandit_Frame_21
       frameIndex: 21
       cellRect:
@@ -1125,7 +1125,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 8bd50c5667d718543a59f599d249fb52
+      spriteId: caf058d14dc616b40baec73ff4930415
     - name: Sword Bandit_Frame_22
       frameIndex: 22
       cellRect:
@@ -1133,7 +1133,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 8141b9f9fc4317242bf9e8139eae0da6
+      spriteId: 69c457733dadce840ad284ff503b283f
     - name: Sword Bandit_Frame_23
       frameIndex: 23
       cellRect:
@@ -1141,7 +1141,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: a127612fab01090469d29b658ff45b9e
+      spriteId: 0c64896d17388e947a010ca42b51f396
     - name: Sword Bandit_Frame_24
       frameIndex: 24
       cellRect:
@@ -1149,7 +1149,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: f3d86c8517f636747a7eadd97e63b602
+      spriteId: 5db0677ac4610a14b975d930ede39518
     - name: Sword Bandit_Frame_25
       frameIndex: 25
       cellRect:
@@ -1157,7 +1157,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 184f923347a392240a79ff4a67826e9a
+      spriteId: 347fa166ff36d4e4bb5bdc23b3773def
     - name: Sword Bandit_Frame_26
       frameIndex: 26
       cellRect:
@@ -1165,7 +1165,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 4409a1f9b496eac42abd530fe5d9a8be
+      spriteId: ee046731ec96bad46b5a7f32033818ba
     - name: Sword Bandit_Frame_27
       frameIndex: 27
       cellRect:
@@ -1173,7 +1173,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: c96798b7fa939fa4eb51b0c215fb8789
+      spriteId: 195427cfce676a54185d4a09585c4b86
     - name: Sword Bandit_Frame_28
       frameIndex: 28
       cellRect:
@@ -1181,7 +1181,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 6f20e12f1b70d33439513fcbeaaa29b0
+      spriteId: 59ae49c8049581e409403f1e6521ad14
     - name: Sword Bandit_Frame_29
       frameIndex: 29
       cellRect:
@@ -1189,7 +1189,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 4f98374856aafc642a108d83464dabcd
+      spriteId: 122e185cb6a9a984d8987281c4960fe4
     - name: Sword Bandit_Frame_30
       frameIndex: 30
       cellRect:
@@ -1197,7 +1197,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 18ff05ce0f3e38f4d9829620f76793e2
+      spriteId: 8eb5fe81e35df2e48aeb7336d049dae1
     - name: Sword Bandit_Frame_31
       frameIndex: 31
       cellRect:
@@ -1205,7 +1205,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 050b3a930fd03aa40b7666b13df64ab9
+      spriteId: 6b1df16818a8bdd4aa81b6e4fd301a22
     - name: Sword Bandit_Frame_32
       frameIndex: 32
       cellRect:
@@ -1213,7 +1213,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: dbb1523f8ba7f4a4186e17c0080cc250
+      spriteId: 9bf4b5a23ff07274899d93d086bf8b1d
     - name: Sword Bandit_Frame_33
       frameIndex: 33
       cellRect:
@@ -1221,7 +1221,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 20bbd87ecab7c5a4ea3d42b231dc8983
+      spriteId: 7eab2ab002b0bc34c8e62bc3b831add6
     - name: Sword Bandit_Frame_34
       frameIndex: 34
       cellRect:
@@ -1229,7 +1229,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 253dbcfdb6e3afa4599bd31a7fb0659e
+      spriteId: 2f749c78516ef6e4bbf50f30fd60030d
     - name: Sword Bandit_Frame_35
       frameIndex: 35
       cellRect:
@@ -1237,7 +1237,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 5daadbad192cfcc4289048f41d5db409
+      spriteId: d97f26494f009b94a83bc3ec04d02fe8
     - name: Sword Bandit_Frame_36
       frameIndex: 36
       cellRect:
@@ -1245,7 +1245,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: ed4adf7d902c065489a13c5c635b6840
+      spriteId: 2d2bfdb24ee13974f957589e9f4c5b81
     - name: Sword Bandit_Frame_37
       frameIndex: 37
       cellRect:
@@ -1253,7 +1253,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 02878e9e8d0eccc4cb497a7cbba33783
+      spriteId: c67a78789e45c8548bc92908cc1f6b81
     - name: Sword Bandit_Frame_38
       frameIndex: 38
       cellRect:
@@ -1261,7 +1261,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 55d26cd8785b970439c66aafb80ff9b3
+      spriteId: 3517fba9991d057448d2c98ea165ff26
     - name: Sword Bandit_Frame_39
       frameIndex: 39
       cellRect:
@@ -1269,7 +1269,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: 871241699032c40419be7d4db4654ec3
+      spriteId: 0043238f09596fb41b5eebb1d1d0c3ee
     - name: Sword Bandit_Frame_40
       frameIndex: 40
       cellRect:
@@ -1277,7 +1277,7 @@ ScriptedImporter:
         y: -18
         width: 192
         height: 192
-      spriteId: c8041aa55247a424dbb45cdfa4adf6be
+      spriteId: dc7274ddb7460144c98958518fb76bcb
     linkedCells: []
     parentIndex: -1
   platformSettings: []

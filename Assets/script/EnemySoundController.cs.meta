@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2532e91e457c6544ab43f044c384b920
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - attackSound: {fileID: 8300000, guid: 6433dc7bf0ba182488bd76f8bed4f9e1, type: 3}
+  - swishSound: {fileID: 8300000, guid: 5ddb6a5624327e241bd91372d0733aac, type: 3}
+  - swordSound: {fileID: 8300000, guid: 8f3ab07f97716cf4a8e837a712336415, type: 3}
+  - musketSound: {fileID: 8300000, guid: 5df7e09b8bc33d24db8d5811258c73ba, type: 3}
+  - hitSound: {fileID: 8300000, guid: d2e50af4ab57d6f4e9b68d35a3c7fab4, type: 3}
+  - ouchSound: {fileID: 8300000, guid: 1e2ddec867297284ca2957694a57cb5f, type: 3}
+  - bonkSound: {fileID: 8300000, guid: da44e1e56e4c08248b540c8746aedce7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
